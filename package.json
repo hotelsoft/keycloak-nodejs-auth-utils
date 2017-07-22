@@ -1,5 +1,5 @@
 {
-  "name": "keycloak-auth-utils",
+  "name": "@hotelsoft/keycloak-auth-utils",
   "version": "3.2.1",
   "description": "Keycloak OAuth client.",
   "keywords": [
